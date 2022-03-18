@@ -5,7 +5,7 @@
 ## Sobre mí.
 Soy un apasionado por la tecnología y su constante crecimiento, vivo en Colombia he intento aprovechar mi día a día nutriendolo de constante aprendizaje🤓.
 ## Puedes encontrarme en:
-- [Portafolio](https://gamaweb.netlify.app/)
+- [Portafolio](https://gamadev.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/andres-gama/)
 
 ## Tecnologias:
