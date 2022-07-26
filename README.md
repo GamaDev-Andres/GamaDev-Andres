@@ -1,6 +1,6 @@
 ## Hola a todos!👋
 
-**Soy Andres Gama** y soy **Frontend developer** y **fullStack developer (en formación)**.
+**Soy Andres Gama** y soy **fullStack developer**.
 
 ## Sobre mí.
 Soy un apasionado por la tecnología y su constante crecimiento, vivo en Colombia he intento aprovechar mi día a día nutriendolo de constante aprendizaje🤓.
