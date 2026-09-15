@@ -22,7 +22,7 @@ Construyo productos web end-to-end: UI en React + TypeScript y APIs en .NET, con
 **Cloud (en uso actual):** AWS · Azure (pipelines)
 
 ## Ahora
-- Trabajando en una plataforma de **prestaciones / cesantías** con **microservicios**, cloud y pipelines (detalle bajo NDA)
+- Trabajando en una plataforma con **microservicios**, **AWS** y pipelines en **Azure** (CI/CD)
 - Abierto a roles Full Stack / Backend .NET o React+TS
 
 ## Contacto
